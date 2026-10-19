@@ -1,0 +1,25 @@
+{
+  "name": "com.ajc-software-ltd.exa-context7-mcp",
+  "version": "0.1.0",
+  "displayName": "Exa & Context7 MCP Tools",
+  "description": "MCP for Unity custom tools that give your AI assistant neural web search (Exa) and up-to-date library documentation lookup (Context7) directly inside the Unity Editor.",
+  "unity": "2021.3",
+  "documentationUrl": "https://github.com/ajc-software-ltd/exa-context7-mcp",
+  "dependencies": {
+    "com.unity.modules.unitywebrequest": "1.0.0",
+    "com.unity.nuget.newtonsoft-json": "3.0.2"
+  },
+  "keywords": [
+    "mcp",
+    "unity",
+    "exa",
+    "context7",
+    "web-search",
+    "documentation",
+    "ai"
+  ],
+  "author": {
+    "name": "AJC Software Ltd",
+    "url": "https://github.com/ajc-software-ltd"
+  }
+}

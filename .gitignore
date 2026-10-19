@@ -1,0 +1,25 @@
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.idea/
+.vs/
+.vscode/
+*.csproj
+*.sln
+*.user
+
+# Unity generated (should not appear in package, but just in case)
+Library/
+Temp/
+Obj/
+Logs/
+UserSettings/
+*.pidb
+*.pdb
+*.mdb
+
+# Binaries
+*.dll
+*.exe

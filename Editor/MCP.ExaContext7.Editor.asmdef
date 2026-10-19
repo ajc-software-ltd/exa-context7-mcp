@@ -1,0 +1,19 @@
+{
+    "name": "MCP.ExaContext7.Editor",
+    "rootNamespace": "MCP.ExaContext7.Editor",
+    "references": [
+        "MCPForUnity.Editor"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "overrideReferences": true,
+    "precompiledReferences": [
+        "Newtonsoft.Json.dll"
+    ],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
