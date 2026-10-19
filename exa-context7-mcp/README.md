@@ -16,12 +16,18 @@ These tools register with the [MCP for Unity](https://github.com/CoplayDev/unity
 
 ## Install
 
-Add this package to your project's `Packages/manifest.json`:
+**Unity → Package Manager → + → Add package from git URL…**
+
+```
+https://github.com/ajc-software-ltd/exa-context7-mcp.git?path=/exa-context7-mcp#main
+```
+
+Or add it to your project's `Packages/manifest.json`:
 
 ```json
 {
   "dependencies": {
-    "com.ajc-software-ltd.exa-context7-mcp": "https://github.com/ajc-software-ltd/exa-context7-mcp.git"
+    "com.ajc-software-ltd.exa-context7-mcp": "https://github.com/ajc-software-ltd/exa-context7-mcp.git?path=/exa-context7-mcp#main"
   }
 }
 ```
